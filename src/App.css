@@ -1,0 +1,9 @@
+.container {
+  background-image:linear-gradient(135deg, rgba(219, 127, 6, 0.7), rgba(234, 126, 30, 0.8)), url(https://static.startuptalky.com/2021/03/coding-ninjas-startuptalky.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  min-width: 100%;
+  min-height: 100vh;
+}
